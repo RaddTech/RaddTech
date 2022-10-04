@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RaddTech
+- 👀 I’m interested in Crypto, UX / UI, and AI
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate as a Project Architect
+- 📫 Nicholas@radd.tech
+- https://radd.tech/
